@@ -1,4 +1,4 @@
-# Customer Segmentation using K-Means Clustering
+# Google Merchandise Customer Segmentation using K-Means Clustering
 
 An unsupervised machine learning project that segments e-commerce users into distinct behavioral groups based on their session activity, interaction patterns, and engagement frequency.
 
