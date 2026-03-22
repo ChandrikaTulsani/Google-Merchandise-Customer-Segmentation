@@ -14,6 +14,9 @@ Understanding customer behavior is essential for targeted marketing and personal
 
 **`events1.csv`** — an e-commerce event log containing user interactions over a period of time.
 
+> 📦 **Download the dataset from Kaggle:** [Google Merchandise Sales Data](https://www.kaggle.com/datasets/mexwell/google-merchandise-sales-data)
+> *(File size is ~31MB and exceeds GitHub's 25MB limit — download manually and place it in the project root.)*
+
 | Column | Description |
 |---|---|
 | `user_id` | Unique user identifier |
